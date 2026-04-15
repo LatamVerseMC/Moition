@@ -435,7 +435,6 @@ function App() {
                         className="w-full h-full object-cover rounded-lg shadow-lg"
                       />
                     )}
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
                     <div className="absolute top-4 left-4">
                       <span className="px-3 py-1 bg-gradient-to-r from-pink-500 to-purple-600 text-white text-sm rounded-full font-bold">
                         {project.category}
